@@ -10,6 +10,12 @@ This is a solution for morse-code decoding.
 - Twitter: [@Grayce_Muthui](https://twitter.com/Grayce_Muthui)
 - LinkedIn: [@Grayce Muthui](https://www.linkedin.com/in/grayce-muthui/)
 
+👤 **Cyril Muchemi**
+
+- GitHub: [@cyrilmuchemi](https://github.com/cyrilmuchemi)
+- Twitter: [@cyrilmuchemi](https://twitter.com/CyrilMuchemi)
+- LinkedIn: [@cyrilmuchemi](https://www.linkedin.com/in/cyril-muchemi/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
