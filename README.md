@@ -1,4 +1,4 @@
-# Clinic Database
+# Morse code decodng.
 
 This is a solution for morse-code decoding.
 
